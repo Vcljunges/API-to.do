@@ -18,8 +18,15 @@ http://localhost:3000/auth POST
   "password": "senha_super_segura"
 }
 
-http://localhost:3000/todos/"token" PUT
+http://localhost:3000/todos POST
 
 {
   "task": "Avançar no mapa conceitual de IoT, redes e drones"
+}
+
+http://localhost:3000/todos PUT
+
+{
+  "task": "Testar a minha nova API do início ao fim (CONCLUÍDO!)",
+  "finished": true
 }
