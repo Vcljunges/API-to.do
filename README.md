@@ -3,6 +3,12 @@
     ALUNO: Vinícius Junges
 */
 
+Para funcionar:
+  cp .env.example .env
+  npm install
+  npx prisma generate
+  npx prisma migrate
+
 http://localhost:3000/users POST
 
 {
