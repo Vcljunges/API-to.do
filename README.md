@@ -18,7 +18,7 @@ http://localhost:3000/auth POST
   "password": "senha_super_segura"
 }
 
-http://localhost:3000/todos POST
+http://localhost:3000/todos/"token" PUT
 
 {
   "task": "Avançar no mapa conceitual de IoT, redes e drones"
