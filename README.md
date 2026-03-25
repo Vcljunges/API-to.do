@@ -1,6 +1,6 @@
 # API-to.do
 /*
-    ALUNO: Vinícius Junges
+    ALUNO: Vinícius Junges e Bruno Chagas.
 */
 
 Para funcionar:
